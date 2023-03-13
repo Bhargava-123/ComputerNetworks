@@ -1,1 +1,1 @@
-﻿# Computer Networks Laboraotry
+﻿# Computer Networks Laboratory
